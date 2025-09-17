@@ -70,10 +70,15 @@ dt.predict([[5,6]])
 
 ## Output:
 <img width="331" height="301" alt="image" src="https://github.com/user-attachments/assets/d9a641b6-dd9d-46a9-ae28-f9f0e32bb89a" />
+
 <img width="370" height="281" alt="image" src="https://github.com/user-attachments/assets/229c84ef-ebe2-4b5e-a735-ae3b0ad45416" />
+
 <img width="199" height="259" alt="image" src="https://github.com/user-attachments/assets/5ed07a64-cccc-4752-8772-313b136004b1" />
+
 <img width="127" height="74" alt="image" src="https://github.com/user-attachments/assets/17818de2-f7f5-4dd5-825e-2955b429852c" />
+
 <img width="182" height="69" alt="image" src="https://github.com/user-attachments/assets/0b5bf2f6-39be-4a67-ad1d-8ed9119b51f6" />
+
 <img width="1609" height="126" alt="image" src="https://github.com/user-attachments/assets/4a17359d-c257-44e0-9b64-5004b79bfef7" />
 
 
